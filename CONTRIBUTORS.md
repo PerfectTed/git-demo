@@ -1,5 +1,5 @@
 # Contributors
-
+Hello World!
 How we work in this repo without overwriting each other. Applies to everyone, and to any AI agent working on their behalf.
 
 ## 1. Get the repo (once)
@@ -97,3 +97,4 @@ Follow sections 2 and 3, plus:
 
 <!-- One line each, at the bottom: - Firstname Lastname (@github-username), Role -->
 - Diana Veletian (@PerfectTedDiana), Engine Room
+- Fi
